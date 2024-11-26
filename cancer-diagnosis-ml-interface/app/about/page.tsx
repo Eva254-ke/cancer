@@ -11,7 +11,7 @@ export default function About() {
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-4">The Team</h2>
         <p className="mb-4">
-          Our team consists of expert data scientists, oncologists, and software engineers who have collaborated to develop this state-of-the-art diagnostic tool. With decades of combined experience in machine learning and medical research, we are committed to pushing the boundaries of what's possible in cancer diagnosis.
+          Our team consists of expert data scientists, oncologists and software engineers who have collaborated to develop this state-of-the-art diagnostic tool. With decades of combined experience in machine learning and medical research, we are committed to pushing the boundaries of what's possible in cancer diagnosis.
         </p>
       </section>
       <section className="mb-8">
